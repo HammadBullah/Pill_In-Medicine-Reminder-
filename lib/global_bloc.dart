@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'models/medicine.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:shared_prefrences/shared_prefreances.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 class GlobalBloc {
